@@ -1,4 +1,3 @@
-#User Search
 Reddit Search: 
 uses Reddit's api for specific flairs of users using python 2.7
 run command by using "python redditScape.py" then go into discord and type !reddit
